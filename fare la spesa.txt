@@ -11,7 +11,9 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
 
 2  Contrtollo
   - SE manca qualcosa lo appunto sulla lista
-  - ALTRIMENTI vado al punto 3
+    - vado al punto 3
+  - ALTRIMENTI 
+    - vado al punto 3
 
 3 Chiudo il frigo
 
